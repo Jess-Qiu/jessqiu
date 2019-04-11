@@ -1,0 +1,53 @@
+{
+  "M0004574": {
+    "ChartData": {
+      "CncMacro": {
+        "O7501": {
+          "670": {
+            "PerfectData": "123.0000",
+            "MeasureData": "0.0000",
+            "CreateTime": "2019/4/11 17:48:00"
+          },
+          "671": {
+            "PerfectData": "123.0000",
+            "MeasureData": "0.0000",
+            "CreateTime": "2019/4/11 17:48:00"
+          }
+        },
+        "O7502": {
+          "680": {
+            "PerfectData": "720.0000",
+            "MeasureData": "0.0000",
+            "CreateTime": "2019/4/11 17:48:00"
+          },
+          "681": {
+            "PerfectData": "563.0000",
+            "MeasureData": "0.0000",
+            "CreateTime": "2019/4/11 17:48:00"
+          },
+          "695": {
+            "PerfectData": "683.0000",
+            "MeasureData": "0.0000",
+            "CreateTime": "2019/4/11 17:48:00"
+          }
+        },
+        "O7503": {
+          "700": {
+            "PerfectData": "620.0000",
+            "MeasureData": "0.0000",
+            "CreateTime": "2019/4/11 17:49:00"
+          },
+          "701": {
+            "PerfectData": "553.0000",
+            "MeasureData": "0.0000",
+            "CreateTime": "2019/4/11 17:49:00"
+          }
+        }
+      }
+    },
+    "Workshop": "H12",
+    "IP": "10.15.202.70",
+    "PM_NO": "M0004574",
+    "MC_Code": "A7-4"
+  }
+}
