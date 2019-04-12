@@ -3,51 +3,205 @@
     "ChartData": {
       "CncMacro": {
         "O7501": {
-          "670": {
-            "PerfectData": "123.0000",
-            "MeasureData": "0.0000",
-            "CreateTime": "2019/4/11 17:48:00"
-          },
-          "671": {
-            "PerfectData": "123.0000",
-            "MeasureData": "0.0000",
-            "CreateTime": "2019/4/11 17:48:00"
-          }
+          "670": [
+            {
+              "Remark": "点1数据",
+              "PerfectData": "123.0000",
+              "MeasureData": "-720.5454",
+              "CreateTime": "4/11/2019 5:38:00 PM"
+            },
+            {
+              "Remark": "点1数据",
+              "PerfectData": "123.0000",
+              "MeasureData": "-720.5355",
+              "CreateTime": "4/11/2019 8:39:00 PM"
+            }
+          ],
+          "671": [
+            {
+              "Remark": "点2数据",
+              "PerfectData": "123.0000",
+              "MeasureData": "-720.5364",
+              "CreateTime": "4/11/2019 5:38:00 PM"
+            },
+            {
+              "Remark": "点2数据",
+              "PerfectData": "123.0000",
+              "MeasureData": "-720.5306",
+              "CreateTime": "4/11/2019 8:39:00 PM"
+            }
+          ]
         },
         "O7502": {
-          "680": {
-            "PerfectData": "720.0000",
-            "MeasureData": "0.0000",
-            "CreateTime": "2019/4/11 17:48:00"
-          },
-          "681": {
-            "PerfectData": "563.0000",
-            "MeasureData": "0.0000",
-            "CreateTime": "2019/4/11 17:48:00"
-          },
-          "695": {
-            "PerfectData": "683.0000",
-            "MeasureData": "0.0000",
-            "CreateTime": "2019/4/11 17:48:00"
-          }
+          "680": [
+            {
+              "Remark": "点1数据",
+              "PerfectData": "720.0000",
+              "MeasureData": "123.0000",
+              "CreateTime": "4/11/2019 10:35:00 AM"
+            },
+            {
+              "Remark": "点1数据",
+              "PerfectData": "720.0000",
+              "MeasureData": "43.0000",
+              "CreateTime": "4/11/2019 11:35:00 AM"
+            },
+            {
+              "Remark": "点1数据",
+              "PerfectData": "720.0000",
+              "MeasureData": "533.0000",
+              "CreateTime": "4/11/2019 12:35:00 PM"
+            },
+            {
+              "Remark": "点1数据",
+              "PerfectData": "720.0000",
+              "MeasureData": "413.0000",
+              "CreateTime": "4/11/2019 2:35:00 PM"
+            },
+            {
+              "Remark": "点1数据",
+              "PerfectData": "720.0000",
+              "MeasureData": "-700.0000",
+              "CreateTime": "4/11/2019 4:35:00 PM"
+            },
+            {
+              "Remark": "点1数据",
+              "PerfectData": "720.0000",
+              "MeasureData": "500.0000",
+              "CreateTime": "4/11/2019 5:33:00 PM"
+            },
+            {
+              "Remark": "点1数据",
+              "PerfectData": "720.0000",
+              "MeasureData": "-200.0000",
+              "CreateTime": "4/11/2019 10:34:00 PM"
+            }
+          ],
+          "681": [
+            {
+              "Remark": "点2数据",
+              "PerfectData": "563.0000",
+              "MeasureData": "23.0000",
+              "CreateTime": "4/11/2019 3:35:00 AM"
+            },
+            {
+              "Remark": "点2数据",
+              "PerfectData": "563.0000",
+              "MeasureData": "-43.0000",
+              "CreateTime": "4/11/2019 6:35:00 AM"
+            },
+            {
+              "Remark": "点2数据",
+              "PerfectData": "563.0000",
+              "MeasureData": "-533.0000",
+              "CreateTime": "4/11/2019 3:35:00 PM"
+            },
+            {
+              "Remark": "点2数据",
+              "PerfectData": "563.0000",
+              "MeasureData": "-730.4998",
+              "CreateTime": "4/11/2019 4:35:00 PM"
+            },
+            {
+              "Remark": "点2数据",
+              "PerfectData": "563.0000",
+              "MeasureData": "-730.5037",
+              "CreateTime": "4/11/2019 5:33:00 PM"
+            },
+            {
+              "Remark": "点2数据",
+              "PerfectData": "563.0000",
+              "MeasureData": "413.0000",
+              "CreateTime": "4/11/2019 6:35:00 PM"
+            },
+            {
+              "Remark": "点2数据",
+              "PerfectData": "563.0000",
+              "MeasureData": "-730.5015",
+              "CreateTime": "4/11/2019 10:34:00 PM"
+            }
+          ],
+          "695": [
+            {
+              "Remark": "绝对值（大-小）",
+              "PerfectData": "683.0000",
+              "MeasureData": "23.0000",
+              "CreateTime": "4/11/2019 10:35:00 AM"
+            },
+            {
+              "Remark": "绝对值（大-小）",
+              "PerfectData": "683.0000",
+              "MeasureData": "-43.0000",
+              "CreateTime": "4/11/2019 11:35:00 AM"
+            },
+            {
+              "Remark": "绝对值（大-小）",
+              "PerfectData": "683.0000",
+              "MeasureData": "-533.0000",
+              "CreateTime": "4/11/2019 12:35:00 PM"
+            },
+            {
+              "Remark": "绝对值（大-小）",
+              "PerfectData": "683.0000",
+              "MeasureData": "413.0000",
+              "CreateTime": "4/11/2019 2:35:00 PM"
+            },
+            {
+              "Remark": "绝对值（大-小）",
+              "PerfectData": "683.0000",
+              "MeasureData": "0.0175",
+              "CreateTime": "4/11/2019 4:35:00 PM"
+            },
+            {
+              "Remark": "绝对值（大-小）",
+              "PerfectData": "683.0000",
+              "MeasureData": "0.0185",
+              "CreateTime": "4/11/2019 5:33:00 PM"
+            },
+            {
+              "Remark": "绝对值（大-小）",
+              "PerfectData": "683.0000",
+              "MeasureData": "0.0174",
+              "CreateTime": "4/11/2019 10:34:00 PM"
+            }
+          ]
         },
         "O7503": {
-          "700": {
-            "PerfectData": "620.0000",
-            "MeasureData": "0.0000",
-            "CreateTime": "2019/4/11 17:49:00"
-          },
-          "701": {
-            "PerfectData": "553.0000",
-            "MeasureData": "0.0000",
-            "CreateTime": "2019/4/11 17:49:00"
-          }
+          "700": [
+            {
+              "Remark": "点1数据",
+              "PerfectData": "620.0000",
+              "MeasureData": "-720.4408",
+              "CreateTime": "4/11/2019 4:35:00 PM"
+            },
+            {
+              "Remark": "点1数据",
+              "PerfectData": "620.0000",
+              "MeasureData": "-720.4492",
+              "CreateTime": "4/11/2019 5:17:00 PM"
+            }
+          ],
+          "701": [
+            {
+              "Remark": "点2数据",
+              "PerfectData": "553.0000",
+              "MeasureData": "-720.4368",
+              "CreateTime": "4/11/2019 4:35:00 PM"
+            },
+            {
+              "Remark": "点2数据",
+              "PerfectData": "553.0000",
+              "MeasureData": "-720.4417",
+              "CreateTime": "4/11/2019 5:17:00 PM"
+            }
+          ]
         }
       }
     },
-    "Workshop": "H12",
-    "IP": "10.15.202.70",
-    "PM_NO": "M0004574",
-    "MC_Code": "A7-4"
+    "Workshop": "H22",
+    "IP": "10.15.202.78",
+    "PM_NO": "M0004573",
+    "MC_Code": "A7-6",
+    "Date": "2019-04-11"
   }
 }
